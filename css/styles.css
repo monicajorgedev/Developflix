@@ -15,4 +15,20 @@ h2 {
   margin-bottom: 10px;
 }
 
+.genero div {
+  margin: 10px;
+}
+.genero img {
+  height: 300px;
+} 
+.genero {
+  display: flex;
+  flex-wrap: wrap;
+
+}
+
+.genero p{
+  font-weight: bold;
+  width: 200px;
+}
 
